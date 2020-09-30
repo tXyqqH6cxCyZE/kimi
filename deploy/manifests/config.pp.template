@@ -1,0 +1,44 @@
+class base {
+  $basedir = "$<path>"
+  $user = "$< user >"
+  $mod_ver = "$< version >"
+  $pkg_dir = "$<pkg_dir>"
+  $mod_name = "$< name >"
+  $tag = "$< tag >"
+  $prog_name = "kingmi-webapp"
+  $prog_logdir = "/home/work/log/kingmi/${prog_name}/"
+  $mod_proc_log = "${prog_logdir}${prog_name}.log"
+  $to_email = ""
+  $mod_start = "sleep 8760h"
+  $run_dir = "${basedir}"
+  $run_env = ""
+  $mod_run_log = "${prog_logdir}${prog_name}.run.log"
+  $mod_err_log = "${prog_logdir}${prog_name}.stderr.log"
+  $running_monitor = false
+
+}
+class preview inherits base {
+}
+
+class c3 inherits base {
+}
+
+class c4 inherits base {
+}
+
+class preview-c3 inherits base {
+}
+
+class preview-c4 inherits base {
+}
+
+class c3-preview inherits base {
+}
+
+class staging inherits base {
+}
+
+class onebox inherits base {
+}
+
+class config inherits $<env> {}

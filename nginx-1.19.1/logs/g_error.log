@@ -1,0 +1,744 @@
+2020/07/24 13:50:01 [notice] 16052#17840: using the "select" event method
+2020/07/24 13:50:01 [notice] 16052#17840: using the "select" event method
+2020/07/24 13:50:01 [notice] 16052#17840: nginx/1.19.1
+2020/07/24 13:50:01 [notice] 16052#17840: nginx/1.19.1
+2020/07/24 13:50:01 [info] 16052#17840: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/24 13:50:01 [notice] 16052#17840: start worker processes
+2020/07/24 13:50:01 [notice] 16052#17840: start worker processes
+2020/07/24 13:50:01 [notice] 16052#17840: start worker process 13304
+2020/07/24 13:50:01 [notice] 16052#17840: start worker process 13304
+2020/07/24 13:50:01 [notice] 13304#13624: nginx/1.19.1
+2020/07/24 13:50:01 [notice] 13304#13624: nginx/1.19.1
+2020/07/24 13:50:01 [info] 13304#13624: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 10040
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 10040
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 15640
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 15640
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 2672
+2020/07/24 13:50:01 [notice] 13304#13624: create thread 2672
+2020/07/27 15:17:24 [notice] 8732#5196: using the "select" event method
+2020/07/27 15:17:24 [notice] 8732#5196: using the "select" event method
+2020/07/27 15:17:24 [notice] 8732#5196: nginx/1.19.1
+2020/07/27 15:17:24 [notice] 8732#5196: nginx/1.19.1
+2020/07/27 15:17:24 [info] 8732#5196: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/27 15:17:24 [notice] 8732#5196: start worker processes
+2020/07/27 15:17:24 [notice] 8732#5196: start worker processes
+2020/07/27 15:17:24 [notice] 8732#5196: start worker process 5844
+2020/07/27 15:17:24 [notice] 8732#5196: start worker process 5844
+2020/07/27 15:17:25 [notice] 5844#4836: nginx/1.19.1
+2020/07/27 15:17:25 [notice] 5844#4836: nginx/1.19.1
+2020/07/27 15:17:25 [info] 5844#4836: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 3652
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 3652
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 7196
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 7196
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 1948
+2020/07/27 15:17:25 [notice] 5844#4836: create thread 1948
+2020/07/28 16:19:08 [notice] 16088#15596: using the "select" event method
+2020/07/28 16:19:08 [notice] 16088#15596: using the "select" event method
+2020/07/28 16:19:08 [notice] 16088#15596: nginx/1.19.1
+2020/07/28 16:19:08 [notice] 16088#15596: nginx/1.19.1
+2020/07/28 16:19:08 [info] 16088#15596: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/28 16:19:08 [notice] 16088#15596: start worker processes
+2020/07/28 16:19:08 [notice] 16088#15596: start worker processes
+2020/07/28 16:19:08 [notice] 16088#15596: start worker process 16152
+2020/07/28 16:19:08 [notice] 16088#15596: start worker process 16152
+2020/07/28 16:19:08 [notice] 16152#15568: nginx/1.19.1
+2020/07/28 16:19:08 [notice] 16152#15568: nginx/1.19.1
+2020/07/28 16:19:08 [info] 16152#15568: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 15936
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 15936
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 5972
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 5972
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 5716
+2020/07/28 16:19:08 [notice] 16152#15568: create thread 5716
+2020/07/30 09:47:55 [notice] 13372#14396: using the "select" event method
+2020/07/30 09:47:55 [notice] 13372#14396: using the "select" event method
+2020/07/30 09:47:55 [notice] 13372#14396: nginx/1.19.1
+2020/07/30 09:47:55 [notice] 13372#14396: nginx/1.19.1
+2020/07/30 09:47:55 [info] 13372#14396: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/30 09:47:55 [notice] 13372#14396: start worker processes
+2020/07/30 09:47:55 [notice] 13372#14396: start worker processes
+2020/07/30 09:47:55 [notice] 13372#14396: start worker process 14792
+2020/07/30 09:47:55 [notice] 13372#14396: start worker process 14792
+2020/07/30 09:47:55 [notice] 14792#280: nginx/1.19.1
+2020/07/30 09:47:55 [notice] 14792#280: nginx/1.19.1
+2020/07/30 09:47:55 [info] 14792#280: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/30 09:47:55 [notice] 14792#280: create thread 16156
+2020/07/30 09:47:55 [notice] 14792#280: create thread 16156
+2020/07/30 09:47:55 [notice] 14792#280: create thread 16308
+2020/07/30 09:47:55 [notice] 14792#280: create thread 16308
+2020/07/30 09:47:55 [notice] 14792#280: create thread 19628
+2020/07/30 09:47:55 [notice] 14792#280: create thread 19628
+2020/07/30 09:48:45 [notice] 13372#14396: exiting
+2020/07/30 09:48:45 [notice] 13372#14396: exiting
+2020/07/30 09:48:45 [notice] 14792#280: gracefully shutting down
+2020/07/30 09:48:45 [notice] 14792#280: gracefully shutting down
+2020/07/30 09:48:45 [notice] 14792#16308: exiting
+2020/07/30 09:48:45 [notice] 14792#16308: exiting
+2020/07/30 09:48:45 [notice] 14792#16156: exiting
+2020/07/30 09:48:45 [notice] 14792#16156: exiting
+2020/07/30 09:48:45 [notice] 14792#280: exit
+2020/07/30 09:48:45 [notice] 14792#280: exit
+2020/07/30 09:48:45 [notice] 13372#14396: worker process 14792 exited with code 0
+2020/07/30 09:48:45 [notice] 13372#14396: worker process 14792 exited with code 0
+2020/07/30 09:48:45 [notice] 13372#14396: exit
+2020/07/30 09:48:45 [notice] 13372#14396: exit
+2020/07/30 09:49:05 [notice] 14724#22444: using the "select" event method
+2020/07/30 09:49:05 [notice] 14724#22444: using the "select" event method
+2020/07/30 09:49:05 [notice] 14724#22444: nginx/1.19.1
+2020/07/30 09:49:05 [notice] 14724#22444: nginx/1.19.1
+2020/07/30 09:49:05 [info] 14724#22444: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/30 09:49:05 [notice] 14724#22444: start worker processes
+2020/07/30 09:49:05 [notice] 14724#22444: start worker processes
+2020/07/30 09:49:05 [notice] 14724#22444: start worker process 16132
+2020/07/30 09:49:05 [notice] 14724#22444: start worker process 16132
+2020/07/30 09:49:05 [notice] 16132#14632: nginx/1.19.1
+2020/07/30 09:49:05 [notice] 16132#14632: nginx/1.19.1
+2020/07/30 09:49:05 [info] 16132#14632: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 3920
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 3920
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 14132
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 14132
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 15264
+2020/07/30 09:49:05 [notice] 16132#14632: create thread 15264
+2020/07/31 16:11:32 [notice] 14724#22444: reconfiguring
+2020/07/31 16:11:32 [notice] 14724#22444: reconfiguring
+2020/07/31 16:11:32 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:11:32 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:11:32 [notice] 14724#22444: start worker processes
+2020/07/31 16:11:32 [notice] 14724#22444: start worker processes
+2020/07/31 16:11:32 [notice] 14724#22444: start worker process 21116
+2020/07/31 16:11:32 [notice] 14724#22444: start worker process 21116
+2020/07/31 16:11:32 [notice] 21116#11352: nginx/1.19.1
+2020/07/31 16:11:32 [notice] 21116#11352: nginx/1.19.1
+2020/07/31 16:11:32 [info] 21116#11352: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 23056
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 23056
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 16092
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 16092
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 19840
+2020/07/31 16:11:32 [notice] 21116#11352: create thread 19840
+2020/07/31 16:11:32 [notice] 16132#14632: gracefully shutting down
+2020/07/31 16:11:32 [notice] 16132#14632: gracefully shutting down
+2020/07/31 16:11:32 [notice] 16132#14132: exiting
+2020/07/31 16:11:32 [notice] 16132#14132: exiting
+2020/07/31 16:11:32 [notice] 16132#3920: exiting
+2020/07/31 16:11:32 [notice] 16132#3920: exiting
+2020/07/31 16:11:32 [notice] 16132#14632: exit
+2020/07/31 16:11:32 [notice] 16132#14632: exit
+2020/07/31 16:11:32 [notice] 14724#22444: worker process 16132 exited with code 0
+2020/07/31 16:11:32 [notice] 14724#22444: worker process 16132 exited with code 0
+2020/07/31 16:14:30 [notice] 14724#22444: reconfiguring
+2020/07/31 16:14:30 [notice] 14724#22444: reconfiguring
+2020/07/31 16:14:30 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:14:30 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:14:30 [notice] 14724#22444: start worker processes
+2020/07/31 16:14:30 [notice] 14724#22444: start worker processes
+2020/07/31 16:14:30 [notice] 14724#22444: start worker process 19612
+2020/07/31 16:14:30 [notice] 14724#22444: start worker process 19612
+2020/07/31 16:14:30 [notice] 19612#4916: nginx/1.19.1
+2020/07/31 16:14:30 [notice] 19612#4916: nginx/1.19.1
+2020/07/31 16:14:30 [info] 19612#4916: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 14108
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 14108
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 19224
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 19224
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 20744
+2020/07/31 16:14:30 [notice] 21116#11352: gracefully shutting down
+2020/07/31 16:14:30 [notice] 19612#4916: create thread 20744
+2020/07/31 16:14:30 [notice] 21116#11352: gracefully shutting down
+2020/07/31 16:14:30 [notice] 21116#16092: exiting
+2020/07/31 16:14:30 [notice] 21116#16092: exiting
+2020/07/31 16:14:30 [notice] 21116#23056: exiting
+2020/07/31 16:14:30 [notice] 21116#23056: exiting
+2020/07/31 16:14:30 [notice] 21116#11352: exit
+2020/07/31 16:14:30 [notice] 21116#11352: exit
+2020/07/31 16:14:30 [notice] 14724#22444: worker process 21116 exited with code 0
+2020/07/31 16:14:30 [notice] 14724#22444: worker process 21116 exited with code 0
+2020/07/31 16:15:38 [notice] 14724#22444: reconfiguring
+2020/07/31 16:15:38 [notice] 14724#22444: reconfiguring
+2020/07/31 16:15:38 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:15:38 [notice] 14724#22444: using the "select" event method
+2020/07/31 16:15:38 [notice] 14724#22444: start worker processes
+2020/07/31 16:15:38 [notice] 14724#22444: start worker processes
+2020/07/31 16:15:38 [notice] 14724#22444: start worker process 21172
+2020/07/31 16:15:38 [notice] 14724#22444: start worker process 21172
+2020/07/31 16:15:38 [notice] 21172#21644: nginx/1.19.1
+2020/07/31 16:15:38 [notice] 21172#21644: nginx/1.19.1
+2020/07/31 16:15:38 [info] 21172#21644: OS: 260200 build:9200, "", suite:100, type:1
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 15340
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 15340
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 2148
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 2148
+2020/07/31 16:15:38 [notice] 19612#4916: gracefully shutting down
+2020/07/31 16:15:38 [notice] 19612#4916: gracefully shutting down
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 15564
+2020/07/31 16:15:38 [notice] 21172#21644: create thread 15564
+2020/07/31 16:15:38 [notice] 19612#19224: exiting
+2020/07/31 16:15:38 [notice] 19612#19224: exiting
+2020/07/31 16:15:42 [notice] 19612#14108: exiting
+2020/07/31 16:15:42 [notice] 19612#14108: exiting
+2020/07/31 16:15:42 [notice] 19612#4916: exit
+2020/07/31 16:15:42 [notice] 19612#4916: exit
+2020/07/31 16:15:42 [notice] 14724#22444: worker process 19612 exited with code 0
+2020/07/31 16:15:42 [notice] 14724#22444: worker process 19612 exited with code 0
+2020/08/07 12:36:28 [notice] 13704#1212: using the "select" event method
+2020/08/07 12:36:28 [notice] 13704#1212: using the "select" event method
+2020/08/07 12:36:28 [notice] 13704#1212: nginx/1.19.1
+2020/08/07 12:36:28 [notice] 13704#1212: nginx/1.19.1
+2020/08/07 12:36:28 [info] 13704#1212: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/07 12:36:28 [notice] 13704#1212: start worker processes
+2020/08/07 12:36:28 [notice] 13704#1212: start worker processes
+2020/08/07 12:36:28 [notice] 13704#1212: start worker process 10004
+2020/08/07 12:36:28 [notice] 13704#1212: start worker process 10004
+2020/08/07 12:36:29 [notice] 10004#7800: nginx/1.19.1
+2020/08/07 12:36:29 [notice] 10004#7800: nginx/1.19.1
+2020/08/07 12:36:29 [info] 10004#7800: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 3604
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 3604
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 18180
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 18180
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 18184
+2020/08/07 12:36:29 [notice] 10004#7800: create thread 18184
+2020/08/12 17:04:10 [notice] 22676#4428: using the "select" event method
+2020/08/12 17:04:10 [notice] 22676#4428: using the "select" event method
+2020/08/12 17:04:10 [notice] 22676#4428: nginx/1.19.1
+2020/08/12 17:04:10 [notice] 22676#4428: nginx/1.19.1
+2020/08/12 17:04:10 [info] 22676#4428: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:04:10 [notice] 22676#4428: start worker processes
+2020/08/12 17:04:10 [notice] 22676#4428: start worker processes
+2020/08/12 17:04:10 [notice] 22676#4428: start worker process 21820
+2020/08/12 17:04:10 [notice] 22676#4428: start worker process 21820
+2020/08/12 17:04:11 [notice] 21820#17712: nginx/1.19.1
+2020/08/12 17:04:11 [notice] 21820#17712: nginx/1.19.1
+2020/08/12 17:04:11 [info] 21820#17712: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 21948
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 21948
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 21352
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 21352
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 16816
+2020/08/12 17:04:11 [notice] 21820#17712: create thread 16816
+2020/08/12 17:26:40 [notice] 22676#4428: worker process 21820 exited with code 1
+2020/08/12 17:26:40 [notice] 22676#4428: worker process 21820 exited with code 1
+2020/08/12 17:26:40 [notice] 22676#4428: start worker process 20644
+2020/08/12 17:26:40 [notice] 22676#4428: start worker process 20644
+2020/08/12 17:26:40 [notice] 20644#23620: nginx/1.19.1
+2020/08/12 17:26:40 [notice] 20644#23620: nginx/1.19.1
+2020/08/12 17:26:40 [info] 20644#23620: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 3604
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 3604
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 23976
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 23976
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 21080
+2020/08/12 17:26:40 [notice] 20644#23620: create thread 21080
+2020/08/12 17:26:43 [notice] 22676#4428: worker process 20644 exited with code 1
+2020/08/12 17:26:43 [notice] 22676#4428: worker process 20644 exited with code 1
+2020/08/12 17:26:43 [notice] 22676#4428: start worker process 21924
+2020/08/12 17:26:43 [notice] 22676#4428: start worker process 21924
+2020/08/12 17:26:43 [notice] 21924#22644: nginx/1.19.1
+2020/08/12 17:26:43 [notice] 21924#22644: nginx/1.19.1
+2020/08/12 17:26:43 [info] 21924#22644: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 20520
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 20520
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 22004
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 22004
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 9220
+2020/08/12 17:26:43 [notice] 21924#22644: create thread 9220
+2020/08/12 17:27:05 [notice] 22604#24432: using the "select" event method
+2020/08/12 17:27:05 [notice] 22604#24432: using the "select" event method
+2020/08/12 17:27:05 [notice] 22604#24432: nginx/1.19.1
+2020/08/12 17:27:05 [notice] 22604#24432: nginx/1.19.1
+2020/08/12 17:27:05 [info] 22604#24432: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:27:05 [notice] 22604#24432: start worker processes
+2020/08/12 17:27:05 [notice] 22604#24432: start worker processes
+2020/08/12 17:27:05 [notice] 22604#24432: start worker process 16744
+2020/08/12 17:27:05 [notice] 22604#24432: start worker process 16744
+2020/08/12 17:27:05 [notice] 16744#23540: nginx/1.19.1
+2020/08/12 17:27:05 [notice] 16744#23540: nginx/1.19.1
+2020/08/12 17:27:05 [info] 16744#23540: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 11652
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 11652
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 3284
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 3284
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 20644
+2020/08/12 17:27:05 [notice] 16744#23540: create thread 20644
+2020/08/12 17:31:03 [notice] 13208#12332: using the "select" event method
+2020/08/12 17:31:03 [notice] 13208#12332: using the "select" event method
+2020/08/12 17:31:03 [notice] 13208#12332: nginx/1.19.1
+2020/08/12 17:31:03 [notice] 13208#12332: nginx/1.19.1
+2020/08/12 17:31:03 [info] 13208#12332: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:31:03 [notice] 13208#12332: start worker processes
+2020/08/12 17:31:03 [notice] 13208#12332: start worker processes
+2020/08/12 17:31:03 [notice] 13208#12332: start worker process 23656
+2020/08/12 17:31:03 [notice] 13208#12332: start worker process 23656
+2020/08/12 17:31:03 [notice] 23656#20476: nginx/1.19.1
+2020/08/12 17:31:03 [notice] 23656#20476: nginx/1.19.1
+2020/08/12 17:31:03 [info] 23656#20476: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 22688
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 22688
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 3360
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 3360
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 22760
+2020/08/12 17:31:03 [notice] 23656#20476: create thread 22760
+2020/08/12 18:48:02 [notice] 13208#12332: worker process 23656 exited with code 1
+2020/08/12 18:48:02 [notice] 13208#12332: worker process 23656 exited with code 1
+2020/08/12 18:48:02 [notice] 13208#12332: start worker process 25540
+2020/08/12 18:48:02 [notice] 13208#12332: start worker process 25540
+2020/08/12 18:48:03 [notice] 25540#24980: nginx/1.19.1
+2020/08/12 18:48:03 [notice] 25540#24980: nginx/1.19.1
+2020/08/12 18:48:03 [info] 25540#24980: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 916
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 916
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 24812
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 24812
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 16452
+2020/08/12 18:48:03 [notice] 25540#24980: create thread 16452
+2020/08/12 18:49:15 [notice] 14952#18084: using the "select" event method
+2020/08/12 18:49:15 [notice] 14952#18084: using the "select" event method
+2020/08/12 18:49:15 [notice] 14952#18084: nginx/1.19.1
+2020/08/12 18:49:15 [notice] 14952#18084: nginx/1.19.1
+2020/08/12 18:49:15 [info] 14952#18084: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 18:49:15 [notice] 14952#18084: start worker processes
+2020/08/12 18:49:15 [notice] 14952#18084: start worker processes
+2020/08/12 18:49:15 [notice] 14952#18084: start worker process 24404
+2020/08/12 18:49:15 [notice] 14952#18084: start worker process 24404
+2020/08/12 18:49:15 [notice] 24404#16256: nginx/1.19.1
+2020/08/12 18:49:15 [notice] 24404#16256: nginx/1.19.1
+2020/08/12 18:49:15 [info] 24404#16256: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 22612
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 22612
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 20720
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 20720
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 13636
+2020/08/12 18:49:15 [notice] 24404#16256: create thread 13636
+2020/08/12 18:51:49 [notice] 9612#12340: using the "select" event method
+2020/08/12 18:51:49 [notice] 9612#12340: using the "select" event method
+2020/08/12 18:51:49 [notice] 9612#12340: nginx/1.19.1
+2020/08/12 18:51:49 [notice] 9612#12340: nginx/1.19.1
+2020/08/12 18:51:49 [info] 9612#12340: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 18:51:49 [notice] 9612#12340: start worker processes
+2020/08/12 18:51:49 [notice] 9612#12340: start worker processes
+2020/08/12 18:51:49 [notice] 9612#12340: start worker process 7332
+2020/08/12 18:51:49 [notice] 9612#12340: start worker process 7332
+2020/08/12 18:51:49 [notice] 7332#24984: nginx/1.19.1
+2020/08/12 18:51:49 [notice] 7332#24984: nginx/1.19.1
+2020/08/12 18:51:49 [info] 7332#24984: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 25328
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 25328
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 19372
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 19372
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 19460
+2020/08/12 18:51:49 [notice] 7332#24984: create thread 19460
+2020/08/15 14:27:33 [notice] 9688#22404: using the "select" event method
+2020/08/15 14:27:33 [notice] 9688#22404: using the "select" event method
+2020/08/15 14:27:33 [notice] 9688#22404: nginx/1.19.1
+2020/08/15 14:27:33 [notice] 9688#22404: nginx/1.19.1
+2020/08/15 14:27:33 [info] 9688#22404: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:27:33 [notice] 9688#22404: start worker processes
+2020/08/15 14:27:33 [notice] 9688#22404: start worker processes
+2020/08/15 14:27:33 [notice] 9688#22404: start worker process 30512
+2020/08/15 14:27:33 [notice] 9688#22404: start worker process 30512
+2020/08/15 14:27:34 [notice] 30512#23024: nginx/1.19.1
+2020/08/15 14:27:34 [notice] 30512#23024: nginx/1.19.1
+2020/08/15 14:27:34 [info] 30512#23024: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 12176
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 12176
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 12056
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 12056
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 28188
+2020/08/15 14:27:34 [notice] 30512#23024: create thread 28188
+2020/08/15 14:43:42 [notice] 9688#22404: worker process 30512 exited with code 1
+2020/08/15 14:43:42 [notice] 9688#22404: worker process 30512 exited with code 1
+2020/08/15 14:43:42 [notice] 9688#22404: start worker process 15240
+2020/08/15 14:43:42 [notice] 9688#22404: start worker process 15240
+2020/08/15 14:43:43 [notice] 15240#27424: nginx/1.19.1
+2020/08/15 14:43:43 [notice] 15240#27424: nginx/1.19.1
+2020/08/15 14:43:43 [info] 15240#27424: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 21872
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 21872
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 30368
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 30368
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 30464
+2020/08/15 14:43:43 [notice] 15240#27424: create thread 30464
+2020/08/15 14:43:44 [notice] 9688#22404: worker process 15240 exited with code 1
+2020/08/15 14:43:44 [notice] 9688#22404: worker process 15240 exited with code 1
+2020/08/15 14:43:44 [notice] 9688#22404: start worker process 26980
+2020/08/15 14:43:44 [notice] 9688#22404: start worker process 26980
+2020/08/15 14:43:45 [notice] 26980#27476: nginx/1.19.1
+2020/08/15 14:43:45 [notice] 26980#27476: nginx/1.19.1
+2020/08/15 14:43:45 [info] 26980#27476: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 20124
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 20124
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 23276
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 23276
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 27824
+2020/08/15 14:43:45 [notice] 26980#27476: create thread 27824
+2020/08/15 14:43:46 [notice] 9688#22404: worker process 26980 exited with code 1
+2020/08/15 14:43:46 [notice] 9688#22404: worker process 26980 exited with code 1
+2020/08/15 14:43:46 [notice] 9688#22404: start worker process 13684
+2020/08/15 14:43:46 [notice] 9688#22404: start worker process 13684
+2020/08/15 14:43:46 [notice] 13684#21064: nginx/1.19.1
+2020/08/15 14:43:46 [notice] 13684#21064: nginx/1.19.1
+2020/08/15 14:43:46 [info] 13684#21064: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 25888
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 25888
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 26424
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 26424
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 30064
+2020/08/15 14:43:46 [notice] 13684#21064: create thread 30064
+2020/08/15 14:43:48 [notice] 9688#22404: worker process 13684 exited with code 1
+2020/08/15 14:43:48 [notice] 9688#22404: worker process 13684 exited with code 1
+2020/08/15 14:43:48 [notice] 9688#22404: start worker process 29824
+2020/08/15 14:43:48 [notice] 9688#22404: start worker process 29824
+2020/08/15 14:43:48 [notice] 29824#7016: nginx/1.19.1
+2020/08/15 14:43:48 [notice] 29824#7016: nginx/1.19.1
+2020/08/15 14:43:48 [info] 29824#7016: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 16016
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 16016
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 26280
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 26280
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 27392
+2020/08/15 14:43:48 [notice] 29824#7016: create thread 27392
+2020/08/15 14:44:04 [notice] 28344#24644: using the "select" event method
+2020/08/15 14:44:04 [notice] 28344#24644: using the "select" event method
+2020/08/15 14:44:04 [notice] 28344#24644: nginx/1.19.1
+2020/08/15 14:44:04 [notice] 28344#24644: nginx/1.19.1
+2020/08/15 14:44:04 [info] 28344#24644: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:44:04 [notice] 28344#24644: start worker processes
+2020/08/15 14:44:04 [notice] 28344#24644: start worker processes
+2020/08/15 14:44:04 [notice] 28344#24644: start worker process 27832
+2020/08/15 14:44:04 [notice] 28344#24644: start worker process 27832
+2020/08/15 14:44:05 [notice] 27832#27516: nginx/1.19.1
+2020/08/15 14:44:05 [notice] 27832#27516: nginx/1.19.1
+2020/08/15 14:44:05 [info] 27832#27516: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 19844
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 19844
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 25304
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 25304
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 25228
+2020/08/15 14:44:05 [notice] 27832#27516: create thread 25228
+2020/08/19 10:54:42 [notice] 28344#24644: worker process 27832 exited with code 1
+2020/08/19 10:54:42 [notice] 28344#24644: worker process 27832 exited with code 1
+2020/08/19 10:54:42 [notice] 28344#24644: start worker process 18964
+2020/08/19 10:54:42 [notice] 28344#24644: start worker process 18964
+2020/08/19 10:54:42 [notice] 18964#4964: nginx/1.19.1
+2020/08/19 10:54:42 [notice] 18964#4964: nginx/1.19.1
+2020/08/19 10:54:42 [info] 18964#4964: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 8252
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 8252
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 5264
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 5264
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 27264
+2020/08/19 10:54:42 [notice] 18964#4964: create thread 27264
+2020/08/19 10:54:44 [notice] 28344#24644: worker process 18964 exited with code 1
+2020/08/19 10:54:44 [notice] 28344#24644: worker process 18964 exited with code 1
+2020/08/19 10:54:44 [notice] 28344#24644: start worker process 25484
+2020/08/19 10:54:44 [notice] 28344#24644: start worker process 25484
+2020/08/19 10:54:44 [notice] 25484#19368: nginx/1.19.1
+2020/08/19 10:54:44 [notice] 25484#19368: nginx/1.19.1
+2020/08/19 10:54:44 [info] 25484#19368: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 30264
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 30264
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 22964
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 22964
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 26596
+2020/08/19 10:54:44 [notice] 25484#19368: create thread 26596
+2020/08/19 10:55:06 [notice] 14632#27684: using the "select" event method
+2020/08/19 10:55:06 [notice] 14632#27684: using the "select" event method
+2020/08/19 10:55:06 [notice] 14632#27684: nginx/1.19.1
+2020/08/19 10:55:06 [notice] 14632#27684: nginx/1.19.1
+2020/08/19 10:55:06 [info] 14632#27684: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:55:06 [notice] 14632#27684: start worker processes
+2020/08/19 10:55:06 [notice] 14632#27684: start worker processes
+2020/08/19 10:55:06 [notice] 14632#27684: start worker process 24616
+2020/08/19 10:55:06 [notice] 14632#27684: start worker process 24616
+2020/08/19 10:55:06 [notice] 24616#2608: nginx/1.19.1
+2020/08/19 10:55:06 [notice] 24616#2608: nginx/1.19.1
+2020/08/19 10:55:06 [info] 24616#2608: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 23540
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 23540
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 26100
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 26100
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 21476
+2020/08/19 10:55:06 [notice] 24616#2608: create thread 21476
+2020/08/19 10:56:18 [notice] 14632#27684: worker process 24616 exited with code 1
+2020/08/19 10:56:18 [notice] 14632#27684: worker process 24616 exited with code 1
+2020/08/19 10:56:18 [notice] 14632#27684: start worker process 12232
+2020/08/19 10:56:18 [notice] 14632#27684: start worker process 12232
+2020/08/19 10:56:18 [notice] 12232#26508: nginx/1.19.1
+2020/08/19 10:56:18 [notice] 12232#26508: nginx/1.19.1
+2020/08/19 10:56:18 [info] 12232#26508: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 26524
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 26524
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 6916
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 6916
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 18916
+2020/08/19 10:56:18 [notice] 12232#26508: create thread 18916
+2020/08/19 10:56:20 [notice] 14632#27684: worker process 12232 exited with code 1
+2020/08/19 10:56:20 [notice] 14632#27684: worker process 12232 exited with code 1
+2020/08/19 10:56:20 [notice] 14632#27684: start worker process 30224
+2020/08/19 10:56:20 [notice] 14632#27684: start worker process 30224
+2020/08/19 10:56:20 [notice] 30224#22728: nginx/1.19.1
+2020/08/19 10:56:20 [notice] 30224#22728: nginx/1.19.1
+2020/08/19 10:56:20 [info] 30224#22728: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 29040
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 29040
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 26304
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 26304
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 26380
+2020/08/19 10:56:20 [notice] 30224#22728: create thread 26380
+2020/08/19 10:56:22 [notice] 14632#27684: worker process 30224 exited with code 1
+2020/08/19 10:56:22 [notice] 14632#27684: worker process 30224 exited with code 1
+2020/08/19 10:56:22 [notice] 14632#27684: start worker process 28404
+2020/08/19 10:56:22 [notice] 14632#27684: start worker process 28404
+2020/08/19 10:56:22 [notice] 28404#27660: nginx/1.19.1
+2020/08/19 10:56:22 [notice] 28404#27660: nginx/1.19.1
+2020/08/19 10:56:22 [info] 28404#27660: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 19292
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 19292
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 27144
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 27144
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 28764
+2020/08/19 10:56:22 [notice] 28404#27660: create thread 28764
+2020/08/19 10:56:28 [notice] 27832#27932: using the "select" event method
+2020/08/19 10:56:28 [notice] 27832#27932: using the "select" event method
+2020/08/19 10:56:28 [notice] 27832#27932: nginx/1.19.1
+2020/08/19 10:56:28 [notice] 27832#27932: nginx/1.19.1
+2020/08/19 10:56:28 [info] 27832#27932: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:56:28 [notice] 27832#27932: start worker processes
+2020/08/19 10:56:28 [notice] 27832#27932: start worker processes
+2020/08/19 10:56:28 [notice] 27832#27932: start worker process 9012
+2020/08/19 10:56:28 [notice] 27832#27932: start worker process 9012
+2020/08/19 10:56:28 [notice] 9012#26960: nginx/1.19.1
+2020/08/19 10:56:28 [notice] 9012#26960: nginx/1.19.1
+2020/08/19 10:56:28 [info] 9012#26960: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 26696
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 26696
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 21004
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 21004
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 6972
+2020/08/19 10:56:28 [notice] 9012#26960: create thread 6972
+2020/08/19 14:37:34 [notice] 27832#27932: worker process 9012 exited with code 1
+2020/08/19 14:37:34 [notice] 27832#27932: worker process 9012 exited with code 1
+2020/08/19 14:37:34 [notice] 27832#27932: start worker process 23836
+2020/08/19 14:37:34 [notice] 27832#27932: start worker process 23836
+2020/08/19 14:37:34 [notice] 23836#30572: nginx/1.19.1
+2020/08/19 14:37:34 [notice] 23836#30572: nginx/1.19.1
+2020/08/19 14:37:34 [info] 23836#30572: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 14516
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 14516
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 28788
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 28788
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 8288
+2020/08/19 14:37:34 [notice] 23836#30572: create thread 8288
+2020/08/19 14:37:48 [notice] 13520#17596: using the "select" event method
+2020/08/19 14:37:48 [notice] 13520#17596: using the "select" event method
+2020/08/19 14:37:48 [notice] 13520#17596: nginx/1.19.1
+2020/08/19 14:37:48 [notice] 13520#17596: nginx/1.19.1
+2020/08/19 14:37:48 [info] 13520#17596: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 14:37:48 [notice] 13520#17596: start worker processes
+2020/08/19 14:37:48 [notice] 13520#17596: start worker processes
+2020/08/19 14:37:48 [notice] 13520#17596: start worker process 20560
+2020/08/19 14:37:48 [notice] 13520#17596: start worker process 20560
+2020/08/19 14:37:49 [notice] 20560#3120: nginx/1.19.1
+2020/08/19 14:37:49 [notice] 20560#3120: nginx/1.19.1
+2020/08/19 14:37:49 [info] 20560#3120: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 26792
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 26792
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 17112
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 17112
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 26088
+2020/08/19 14:37:49 [notice] 20560#3120: create thread 26088
+2020/08/19 15:16:50 [notice] 13520#17596: exiting
+2020/08/19 15:16:50 [notice] 13520#17596: exiting
+2020/08/19 15:16:50 [notice] 20560#3120: gracefully shutting down
+2020/08/19 15:16:50 [notice] 20560#3120: gracefully shutting down
+2020/08/19 15:16:50 [notice] 20560#17112: exiting
+2020/08/19 15:16:50 [notice] 20560#17112: exiting
+2020/08/19 15:16:50 [notice] 20560#26792: exiting
+2020/08/19 15:16:50 [notice] 20560#26792: exiting
+2020/08/19 15:16:50 [notice] 20560#3120: exit
+2020/08/19 15:16:50 [notice] 20560#3120: exit
+2020/08/19 15:16:50 [notice] 13520#17596: worker process 20560 exited with code 0
+2020/08/19 15:16:50 [notice] 13520#17596: worker process 20560 exited with code 0
+2020/08/19 15:16:50 [notice] 13520#17596: exit
+2020/08/19 15:16:50 [notice] 13520#17596: exit
+2020/08/19 15:16:54 [notice] 16184#28192: using the "select" event method
+2020/08/19 15:16:54 [notice] 16184#28192: using the "select" event method
+2020/08/19 15:16:54 [notice] 16184#28192: nginx/1.19.1
+2020/08/19 15:16:54 [notice] 16184#28192: nginx/1.19.1
+2020/08/19 15:16:54 [info] 16184#28192: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 15:16:54 [notice] 16184#28192: start worker processes
+2020/08/19 15:16:54 [notice] 16184#28192: start worker processes
+2020/08/19 15:16:54 [notice] 16184#28192: start worker process 28704
+2020/08/19 15:16:54 [notice] 16184#28192: start worker process 28704
+2020/08/19 15:16:54 [notice] 28704#3464: nginx/1.19.1
+2020/08/19 15:16:54 [notice] 28704#3464: nginx/1.19.1
+2020/08/19 15:16:54 [info] 28704#3464: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 30052
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 30052
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 22268
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 22268
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 2888
+2020/08/19 15:16:54 [notice] 28704#3464: create thread 2888
+2020/08/21 11:02:40 [notice] 16184#28192: worker process 28704 exited with code 1
+2020/08/21 11:02:40 [notice] 16184#28192: worker process 28704 exited with code 1
+2020/08/21 11:02:40 [notice] 16184#28192: start worker process 31440
+2020/08/21 11:02:40 [notice] 16184#28192: start worker process 31440
+2020/08/21 11:02:41 [notice] 31440#23344: nginx/1.19.1
+2020/08/21 11:02:41 [notice] 31440#23344: nginx/1.19.1
+2020/08/21 11:02:41 [info] 31440#23344: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 34680
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 34680
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 13524
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 13524
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 16380
+2020/08/21 11:02:41 [notice] 31440#23344: create thread 16380
+2020/08/21 11:02:42 [notice] 16184#28192: worker process 31440 exited with code 1
+2020/08/21 11:02:42 [notice] 16184#28192: worker process 31440 exited with code 1
+2020/08/21 11:02:42 [notice] 16184#28192: start worker process 20036
+2020/08/21 11:02:42 [notice] 16184#28192: start worker process 20036
+2020/08/21 11:02:42 [notice] 20036#20472: nginx/1.19.1
+2020/08/21 11:02:42 [notice] 20036#20472: nginx/1.19.1
+2020/08/21 11:02:42 [info] 20036#20472: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 10692
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 10692
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 28176
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 28176
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 2508
+2020/08/21 11:02:42 [notice] 20036#20472: create thread 2508
+2020/08/21 11:02:53 [notice] 23796#26400: using the "select" event method
+2020/08/21 11:02:53 [notice] 23796#26400: using the "select" event method
+2020/08/21 11:02:53 [notice] 23796#26400: nginx/1.19.1
+2020/08/21 11:02:53 [notice] 23796#26400: nginx/1.19.1
+2020/08/21 11:02:53 [info] 23796#26400: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:02:53 [notice] 23796#26400: start worker processes
+2020/08/21 11:02:53 [notice] 23796#26400: start worker processes
+2020/08/21 11:02:53 [notice] 23796#26400: start worker process 29844
+2020/08/21 11:02:53 [notice] 23796#26400: start worker process 29844
+2020/08/21 11:02:53 [notice] 29844#31868: nginx/1.19.1
+2020/08/21 11:02:53 [notice] 29844#31868: nginx/1.19.1
+2020/08/21 11:02:53 [info] 29844#31868: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 34352
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 34352
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 34260
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 34260
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 32236
+2020/08/21 11:02:53 [notice] 29844#31868: create thread 32236
+2020/08/21 11:27:32 [notice] 23796#26400: worker process 29844 exited with code 1
+2020/08/21 11:27:32 [notice] 23796#26400: worker process 29844 exited with code 1
+2020/08/21 11:27:32 [notice] 23796#26400: start worker process 22620
+2020/08/21 11:27:32 [notice] 23796#26400: start worker process 22620
+2020/08/21 11:27:33 [notice] 22620#33728: nginx/1.19.1
+2020/08/21 11:27:33 [notice] 22620#33728: nginx/1.19.1
+2020/08/21 11:27:33 [info] 22620#33728: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 2432
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 2432
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 31660
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 31660
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 34056
+2020/08/21 11:27:33 [notice] 22620#33728: create thread 34056
+2020/08/21 11:27:34 [notice] 23796#26400: worker process 22620 exited with code 1
+2020/08/21 11:27:34 [notice] 23796#26400: worker process 22620 exited with code 1
+2020/08/21 11:27:34 [notice] 23796#26400: start worker process 34756
+2020/08/21 11:27:34 [notice] 23796#26400: start worker process 34756
+2020/08/21 11:27:35 [notice] 34756#448: nginx/1.19.1
+2020/08/21 11:27:35 [notice] 34756#448: nginx/1.19.1
+2020/08/21 11:27:35 [info] 34756#448: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:27:35 [notice] 34756#448: create thread 27644
+2020/08/21 11:27:35 [notice] 34756#448: create thread 27644
+2020/08/21 11:27:35 [notice] 34756#448: create thread 11352
+2020/08/21 11:27:35 [notice] 34756#448: create thread 11352
+2020/08/21 11:27:35 [notice] 34756#448: create thread 19440
+2020/08/21 11:27:35 [notice] 34756#448: create thread 19440
+2020/08/21 11:27:42 [notice] 2240#33508: using the "select" event method
+2020/08/21 11:27:42 [notice] 2240#33508: using the "select" event method
+2020/08/21 11:27:42 [notice] 2240#33508: nginx/1.19.1
+2020/08/21 11:27:42 [notice] 2240#33508: nginx/1.19.1
+2020/08/21 11:27:42 [info] 2240#33508: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:27:42 [notice] 2240#33508: start worker processes
+2020/08/21 11:27:42 [notice] 2240#33508: start worker processes
+2020/08/21 11:27:42 [notice] 2240#33508: start worker process 33412
+2020/08/21 11:27:42 [notice] 2240#33508: start worker process 33412
+2020/08/21 11:27:43 [notice] 33412#11952: nginx/1.19.1
+2020/08/21 11:27:43 [notice] 33412#11952: nginx/1.19.1
+2020/08/21 11:27:43 [info] 33412#11952: OS: 260200 build:9200, "", suite:100, type:1
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 33876
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 33876
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 32684
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 32684
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 820
+2020/08/21 11:27:43 [notice] 33412#11952: create thread 820
+2020/09/04 19:01:34 [notice] 2992#9772: using the "select" event method
+2020/09/04 19:01:34 [notice] 2992#9772: using the "select" event method
+2020/09/04 19:01:34 [notice] 2992#9772: nginx/1.19.1
+2020/09/04 19:01:34 [notice] 2992#9772: nginx/1.19.1
+2020/09/04 19:01:34 [info] 2992#9772: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/04 19:01:34 [notice] 2992#9772: start worker processes
+2020/09/04 19:01:34 [notice] 2992#9772: start worker processes
+2020/09/04 19:01:34 [notice] 2992#9772: start worker process 3668
+2020/09/04 19:01:34 [notice] 2992#9772: start worker process 3668
+2020/09/04 19:01:35 [notice] 3668#4908: nginx/1.19.1
+2020/09/04 19:01:35 [notice] 3668#4908: nginx/1.19.1
+2020/09/04 19:01:35 [info] 3668#4908: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 3172
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 3172
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 4168
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 4168
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 7692
+2020/09/04 19:01:35 [notice] 3668#4908: create thread 7692
+2020/09/08 16:01:50 [notice] 10380#8720: using the "select" event method
+2020/09/08 16:01:50 [notice] 10380#8720: using the "select" event method
+2020/09/08 16:01:50 [notice] 10380#8720: nginx/1.19.1
+2020/09/08 16:01:50 [notice] 10380#8720: nginx/1.19.1
+2020/09/08 16:01:50 [info] 10380#8720: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/08 16:01:50 [notice] 10380#8720: start worker processes
+2020/09/08 16:01:50 [notice] 10380#8720: start worker processes
+2020/09/08 16:01:50 [notice] 10380#8720: start worker process 22412
+2020/09/08 16:01:50 [notice] 10380#8720: start worker process 22412
+2020/09/08 16:01:51 [notice] 22412#19796: nginx/1.19.1
+2020/09/08 16:01:51 [notice] 22412#19796: nginx/1.19.1
+2020/09/08 16:01:51 [info] 22412#19796: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 13224
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 13224
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 1340
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 1340
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 25444
+2020/09/08 16:01:51 [notice] 22412#19796: create thread 25444
+2020/09/14 09:58:42 [notice] 13672#13676: using the "select" event method
+2020/09/14 09:58:42 [notice] 13672#13676: using the "select" event method
+2020/09/14 09:58:42 [notice] 13672#13676: nginx/1.19.1
+2020/09/14 09:58:42 [notice] 13672#13676: nginx/1.19.1
+2020/09/14 09:58:42 [info] 13672#13676: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/14 09:58:42 [notice] 13672#13676: start worker processes
+2020/09/14 09:58:42 [notice] 13672#13676: start worker processes
+2020/09/14 09:58:42 [notice] 13672#13676: start worker process 13700
+2020/09/14 09:58:42 [notice] 13672#13676: start worker process 13700
+2020/09/14 09:58:42 [notice] 13700#13712: nginx/1.19.1
+2020/09/14 09:58:42 [notice] 13700#13712: nginx/1.19.1
+2020/09/14 09:58:42 [info] 13700#13712: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13800
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13800
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13816
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13816
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13280
+2020/09/14 09:58:42 [notice] 13700#13712: create thread 13280
+2020/09/14 13:53:59 [notice] 1140#12104: using the "select" event method
+2020/09/14 13:53:59 [notice] 1140#12104: using the "select" event method
+2020/09/14 13:53:59 [notice] 1140#12104: nginx/1.19.1
+2020/09/14 13:53:59 [notice] 1140#12104: nginx/1.19.1
+2020/09/14 13:53:59 [info] 1140#12104: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/14 13:53:59 [notice] 1140#12104: start worker processes
+2020/09/14 13:53:59 [notice] 1140#12104: start worker processes
+2020/09/14 13:53:59 [notice] 1140#12104: start worker process 13808
+2020/09/14 13:53:59 [notice] 1140#12104: start worker process 13808
+2020/09/14 13:53:59 [notice] 13808#14256: nginx/1.19.1
+2020/09/14 13:53:59 [notice] 13808#14256: nginx/1.19.1
+2020/09/14 13:53:59 [info] 13808#14256: OS: 260200 build:9200, "", suite:100, type:1
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 14448
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 14448
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 14900
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 14900
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 16140
+2020/09/14 13:53:59 [notice] 13808#14256: create thread 16140

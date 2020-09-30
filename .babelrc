@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "env","stage-0","react"
+    ],
+    //按需加载antd
+    "plugins": ["transform-runtime", ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": true }]]
+}

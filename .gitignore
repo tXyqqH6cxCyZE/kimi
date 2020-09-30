@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+Kimmy.iml
+dist.zip
+package-lock.json
+dist/
